@@ -5,6 +5,9 @@ locale: zh-TW
 canonical_locale: en
 title: "AWS 啟用泰國雲端區域，設置三個可用區"
 slug: aws-launches-thailand-region-three-availability-zones
+event_date: 2025-01-07
+event_category: COD
+primary_source: Amazon
 sector: Data Center
 news_topic: Operations
 countries:

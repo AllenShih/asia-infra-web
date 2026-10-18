@@ -5,6 +5,9 @@ locale: en
 canonical_locale: en
 title: "Yunlin Offshore Wind Farm enters full commercial operation at 640 MW"
 slug: yunlin-offshore-wind-full-commercial-operation-640mw
+event_date: 2025-08-21
+event_category: COD
+primary_source: Yunneng Wind Power
 sector: Offshore Wind
 news_topic: Operations
 countries:

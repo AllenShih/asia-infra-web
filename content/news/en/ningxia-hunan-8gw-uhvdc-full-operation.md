@@ -5,6 +5,9 @@ locale: en
 canonical_locale: en
 title: "Ningxia-Hunan 8 GW UHVDC link enters full operation"
 slug: ningxia-hunan-8gw-uhvdc-full-operation
+event_date: 2025-08-20
+event_category: COD
+primary_source: National Energy Administration regional office
 sector: Grid & Transmission
 news_topic: Grid & Interconnection
 countries:

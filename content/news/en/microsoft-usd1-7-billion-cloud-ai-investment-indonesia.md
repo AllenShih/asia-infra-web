@@ -5,6 +5,9 @@ locale: en
 canonical_locale: en
 title: "Microsoft announces US$1.7 billion cloud and AI investment in Indonesia"
 slug: microsoft-usd1-7-billion-cloud-ai-investment-indonesia
+event_date: 2024-04-30
+event_category: Announcement
+primary_source: Microsoft
 sector: Data Center
 news_topic: Financing & Investment
 countries:

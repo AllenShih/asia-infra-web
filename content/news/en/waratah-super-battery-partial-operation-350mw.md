@@ -5,6 +5,9 @@ locale: en
 canonical_locale: en
 title: "Waratah Super Battery begins partial operation with 350 MW online"
 slug: waratah-super-battery-partial-operation-350mw
+event_date: 2025-08-05
+event_category: Construction
+primary_source: EnergyCo NSW
 sector: BESS
 news_topic: Operations
 countries:

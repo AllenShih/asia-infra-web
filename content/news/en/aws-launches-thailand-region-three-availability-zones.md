@@ -5,6 +5,9 @@ locale: en
 canonical_locale: en
 title: "AWS launches Thailand cloud region with three Availability Zones"
 slug: aws-launches-thailand-region-three-availability-zones
+event_date: 2025-01-07
+event_category: COD
+primary_source: Amazon
 sector: Data Center
 news_topic: Operations
 countries:

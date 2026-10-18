@@ -5,6 +5,9 @@ locale: zh-TW
 canonical_locale: en
 title: "Waratah 超級電池啟動部分運轉，350 MW 容量上線"
 slug: waratah-super-battery-partial-operation-350mw
+event_date: 2025-08-05
+event_category: Construction
+primary_source: EnergyCo NSW
 sector: BESS
 news_topic: Operations
 countries:

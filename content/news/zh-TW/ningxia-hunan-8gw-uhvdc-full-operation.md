@@ -5,6 +5,9 @@ locale: zh-TW
 canonical_locale: en
 title: "寧夏至湖南 8 GW 特高壓直流工程全面投運"
 slug: ningxia-hunan-8gw-uhvdc-full-operation
+event_date: 2025-08-20
+event_category: COD
+primary_source: 國家能源局西北監管局
 sector: Grid & Transmission
 news_topic: Grid & Interconnection
 countries:

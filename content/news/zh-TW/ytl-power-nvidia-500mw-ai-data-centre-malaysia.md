@@ -5,6 +5,9 @@ locale: zh-TW
 canonical_locale: en
 title: "YTL Power 與 NVIDIA 宣布在馬來西亞合作建置 500 MW AI 資料中心"
 slug: ytl-power-nvidia-500mw-ai-data-centre-malaysia
+event_date: 2023-12-08
+event_category: Announcement
+primary_source: YTL Power International
 published_at: 2026-10-17T15:32:20+08:00
 updated_at: 2026-10-17T15:32:20+08:00
 sector: Data Center

@@ -5,6 +5,9 @@ locale: zh-TW
 canonical_locale: en
 title: "雲林離岸風場以 640 MW 容量進入全面商業運轉"
 slug: yunlin-offshore-wind-full-commercial-operation-640mw
+event_date: 2025-08-21
+event_category: COD
+primary_source: 允能風力發電
 sector: Offshore Wind
 news_topic: Operations
 countries:
