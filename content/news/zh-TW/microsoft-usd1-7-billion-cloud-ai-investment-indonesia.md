@@ -11,8 +11,8 @@ countries:
   - Indonesia
 project_ids: []
 company_ids: []
-published_at: 2026-10-18T11:26:41+08:00
-updated_at: 2026-10-18T11:26:41+08:00
+published_at: 2026-10-18T12:45:24+08:00
+updated_at: 2026-10-18T12:45:24+08:00
 status: published
 source_urls:
   - https://news.microsoft.com/source/asia/2024/04/30/microsoft-announces-us1-7-billion-investment-to-advance-indonesias-cloud-and-ai-ambitions/

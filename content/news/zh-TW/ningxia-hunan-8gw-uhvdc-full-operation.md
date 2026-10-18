@@ -11,8 +11,8 @@ countries:
   - China
 project_ids: []
 company_ids: []
-published_at: 2026-10-18T11:26:41+08:00
-updated_at: 2026-10-18T11:26:41+08:00
+published_at: 2026-10-18T12:45:24+08:00
+updated_at: 2026-10-18T12:45:24+08:00
 status: published
 source_urls:
   - https://xbj.nea.gov.cn/dtyw/hyxx/202508/t20250821_286026.html

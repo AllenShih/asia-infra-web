@@ -11,8 +11,8 @@ countries:
   - Thailand
 project_ids: []
 company_ids: []
-published_at: 2026-10-18T11:26:41+08:00
-updated_at: 2026-10-18T11:26:41+08:00
+published_at: 2026-10-18T12:45:24+08:00
+updated_at: 2026-10-18T12:45:24+08:00
 status: published
 source_urls:
   - https://press.aboutamazon.com/2025/1/aws-launches-infrastructure-region-in-thailand

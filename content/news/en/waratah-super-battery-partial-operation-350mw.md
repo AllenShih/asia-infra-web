@@ -11,8 +11,8 @@ countries:
   - Australia
 project_ids: []
 company_ids: []
-published_at: 2026-10-18T11:26:41+08:00
-updated_at: 2026-10-18T11:26:41+08:00
+published_at: 2026-10-18T12:45:24+08:00
+updated_at: 2026-10-18T12:45:24+08:00
 status: published
 source_urls:
   - https://www.energyco.nsw.gov.au/news/waratah-super-battery-project-interim-operation
